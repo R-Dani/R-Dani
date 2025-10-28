@@ -1,6 +1,6 @@
 <html>
   <head>
-    <h1 align = "center"> 🦔 ¡Hey! Soy Daniel Robledo </h1>
+    <h1 align = "center"> 🦔 ¡Hey! Soy Daniel Robledo ⚡</h1>
     <h3 align = "center"> 💻 Proximo Ingeniero en Sistemas Computacionales </h3>
   </head>
   <body>
@@ -16,7 +16,8 @@
       <td colspan ="4" height = "150"></td>
     </tr>
     <tr>
-      <td><img src = "https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width = "80"></td>
+      <td><img src = "https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width = "60"></td>
+      <td><p style= "font-family: Times New Roman;">Educación</p></td>
     </tr>
   </tbody>
   </table>
