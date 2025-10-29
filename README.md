@@ -4,7 +4,7 @@
     <h3 align = "center"> 💻 Proximo Ingeniero en Sistemas Computacionales </h3>
   </head>
   <body>
-  <table align ="center" border ="0">
+  <table align ="center">
   <tbody>
     <tr>
       <td></td>
@@ -13,11 +13,22 @@
       <td></td>
     </tr>
     <tr>
-      <td colspan ="4" height = "150"></td>
+      <td colspan ="4" height = "130"></td>
     </tr>
     <tr>
-      <td><img src = "https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width = "60"></td>
-      <td><p style= "font-family: Times New Roman;">Educación</p></td>
+      <td><img src = "https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width = "40"></td>
+      <td><h2>Educación</h2></td>
+    </tr>
+    <tr>
+      <td>🔴</td>
+      <td>Estudiante de Cenyca Universidad, cursando el 3er Cuatrimestre de Sistemas Computacionales</td>
+    </tr>
+    <td><img src = "https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width = "40"></td>
+      <td><h2>Lenguajes</h2></td>
+    </tr>
+    <tr>
+      <td><img width="67" height="76" alt="Csharp" src="https://github.com/user-attachments/assets/892e89ee-b927-4a16-b594-b4392dd14434" /></td>
+      <td>Estudiante de Cenyca Universidad, cursando el 3er Cuatrimestre de Sistemas Computacionales</td>
     </tr>
   </tbody>
   </table>
