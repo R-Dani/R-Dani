@@ -1,37 +1,32 @@
 <html>
   <head>
-    <h1 align = "center"> 🦔 ¡Hey! Soy Daniel Robledo ⚡</h1>
-    <h3 align = "center"> 💻 Proximo Ingeniero en Sistemas Computacionales </h3>
+    <table align ="center">
+      <td>
+         <h1> 🦔 ¡Hey! Soy Daniel Robledo ⚡</h1>
+         <h3> 💻 Proximo Ingeniero en Sistemas Computacionales </h3>
+      </td>
+      <td>
+        <img src= "https://media.tenor.com/q6qW9VNFvVUAAAAi/retro-sonic-knuckles.gif" width = "120"/>
+      </td>
+    </table>
   </head>
   <body>
-  <table align ="center">
-  <tbody>
-    <tr>
-      <td></td>
-      <td><img width="294" height="74" alt="Start" src="https://github.com/user-attachments/assets/79581f63-6d2c-4d8d-8c45-97119c38addf" /></td>
-      <td><img src= "https://media.tenor.com/q6qW9VNFvVUAAAAi/retro-sonic-knuckles.gif" width = "120"/></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td colspan ="4" height = "130"></td>
-    </tr>
-    <tr>
-      <td><img src = "https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width = "40"></td>
-      <td><h2>Educación</h2></td>
-    </tr>
-    <tr>
-      <td>🔴</td>
-      <td>Estudiante de Cenyca Universidad, cursando el 3er Cuatrimestre de Sistemas Computacionales</td>
-    </tr>
-    <td><img src = "https://media.tenor.com/-ERXxQzQK_YAAAAi/sonic-sprite-sonic1.gif" width = "40"></td>
-      <td><h2>Lenguajes</h2></td>
-    </tr>
-    <tr>
-      <td><img width="67" height="76" alt="Csharp" src="https://github.com/user-attachments/assets/892e89ee-b927-4a16-b594-b4392dd14434" /></td>
-      <td>Estudiante de Cenyca Universidad, cursando el 3er Cuatrimestre de Sistemas Computacionales</td>
-    </tr>
-  </tbody>
-  </table>
-    
+   <table align= "center">
+     <tr>
+       <td width= "75"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30"></td>
+       <td><h3 align= "left">Educación</h3></td>
+     </tr>
+     <tr>
+       <td colspan="2">Estudiante de Cenyca Universidad, Cursando 3er Cuatrimestre de Sistemas Computacionales</td>
+     </tr>
+      <tr>
+       <td width= "75"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30"></td>
+       <td><h3 align= "left">Lenguajes</h3></td>
+     </tr>
+     <tr>
+       <td><img width="75" height="84" alt="Cplus" src="https://github.com/user-attachments/assets/c0ec2803-94c0-42e6-9744-dc693f1ae7b0"/></td>
+        <td><img width="75" height="84" alt="Csharp" src="https://github.com/user-attachments/assets/205f931e-f192-4037-a331-d7a7a97d1a6c" /></td>
+     </tr>
+   </table>
   </body>
 </html>
