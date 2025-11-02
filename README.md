@@ -1,6 +1,6 @@
 <html>
   <head>
-    <table align ="center" border="0" cellspacing="0" cellpadding="0">
+    <table align ="center">
       <td>
          <h1> 🦔 ¡Hey! Soy Daniel Robledo ⚡</h1>
          <h3> 💻 Proximo Ingeniero en Sistemas Computacionales </h3>
@@ -11,37 +11,13 @@
     </table>
   </head>
   <body>
-   <table align= "center">
-     <tr>
-       <td width= "75"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30"></td>
-       <td><h3 align= "left">Educación</h3></td>
-     </tr>
-     <tr>
-       <td colspan="2"><h4>🔵 Estudiante de Cenyca Universidad, Cursando 3er Cuatrimestre de Sistemas Computacionales</h4></td>
-     </tr>
-      <tr>
-       <td width= "75"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30"></td>
-       <td><h3 align= "left">Lenguajes</h3></td>
-     </tr>
-     <tr>
-       <td colspan="2" align="center"><img  width="89" height="99" alt="csharp" src="https://github.com/user-attachments/assets/f8648f92-77e0-43ac-8ab8-06e145ebc0c2" />
-         &nbsp;&nbsp;<img width="89" height="99" alt="cplus" src="https://github.com/user-attachments/assets/2eb90c70-36b2-4403-b2c5-960c162f9ef4" /></td>
-     </tr>
-     <tr>
-       <td width= "75"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30"></td>
-       <td><h3 align= "left">Bases de Datos</h3></td>
-     </tr>
-     <tr>
-       <td colspan="2" align="center"><img width="89" height="89" alt="mysql" src="https://github.com/user-attachments/assets/d7d4e618-83f2-4e02-a4be-f620674d631c" />
-         &nbsp;&nbsp;<img width="89" height="89" alt="sql" src="https://github.com/user-attachments/assets/687fc521-09d9-427b-b17d-493ad7decebe" /></td>
-     </tr>
-     <tr>
-       <td width= "75"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30"></td>
-       <td><h3 align= "left">Proyectos</h3></td>
-     </tr>
-     <tr>
-       <td colspan="2" align="center"><img width="127" height="146" alt="Rocko_Icono" src="https://github.com/user-attachments/assets/46494fc5-b640-476f-9970-a135e0cd8a44" /><h4>RockoBoy Run</h4></td>
-     </tr>
-   </table>
-  </body>
+    <h3 align="left"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30">&nbsp;Educación</h3>
+    <p align="left">&nbsp;🌀 Estudiando Ingenieria en Sistemas Computacionales en &nbsp;<img width="130" height="27" alt="logo-cenyca" src="https://github.com/user-attachments/assets/5650a1da-83c8-4e74-bab0-56e35e4c479c" /></p>
+    <p>&nbsp;</p>
+   <h3 align="left"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30">&nbsp;Lenguajes y Herramientas</h3>
+   <p align="left">&nbsp;<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+    <p>&nbsp;</p>
+   <h3 align="left"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30">&nbsp;Proyectos</h3>
+    
+&nbsp;🌀 [RockoBoy Run](https://github.com/R-Dani/RockoBoy-Run)
 </html>
