@@ -1,5 +1,4 @@
-<html>
-  <head>
+<head>
     <table align ="center">
       <td>
          <h1> 🦔 ¡Hey! Soy Daniel Robledo ⚡</h1>
@@ -10,13 +9,61 @@
       </td>
     </table>
   </head>
-  <body>
-    <h3 align="left"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30">&nbsp;Educación</h3>
-    <p align="left">&nbsp;🌀 Estudiando Ingenieria en Sistemas Computacionales en &nbsp;<img width="130" height="27" alt="logo-cenyca" src="https://github.com/user-attachments/assets/5650a1da-83c8-4e74-bab0-56e35e4c479c" /></p>
-    <p>&nbsp;</p>
-   <h3 align="left"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30">&nbsp;Lenguajes y Herramientas</h3>
-   <p align="left">&nbsp;<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-    <p>&nbsp;</p>
-   <h3 align="left"><img src= "https://media.tenor.com/SGV9FvRAjcEAAAAi/anelli.gif" align="center" width = "30">&nbsp;Proyectos</h3>
 
-</html>
+
+Soy estudiante de segundo año de Ingenieria en Sistemas Computacionales 💻 en Cenyca Universidad. 
+
+- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+- 🔭 I’m currently studying:
+	- Mobile Application Development 
+	- Web Application Development 
+- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
+
+## Skills
+
+<h4> Languages </h4>
+<span> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%23-7E16B5?style=for-the-badge&logo=c&logoColor=white">
+</span>
+
+
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-1AB5E8?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+
+<h4> IDE </h4>
+<span>
+  <img src="https://img.shields.io/badge/Visual%20Studio%202022-8E68AD?style=for-the-badge&logoColor=white">
+
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
+</span>
+
+
+
+
+    
+
+<hr>
+<p align="center">
+   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<br>
+</p>
+------
+Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
+
+Last Edited on: 28/01/2023
