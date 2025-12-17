@@ -1,7 +1,7 @@
 <head>
-         <h1> ⚡ Hey! I'm Daniel Robledo 🔥</h1>
+         <h1> ⚡ Hey! I'm Daniel Robledo 🔥<img  src= "https://media.tenor.com/q6qW9VNFvVUAAAAi/retro-sonic-knuckles.gif" width = "50"/></h1>
          <h3> 💻 Future Computer Systems Engineer </h3>
-        <img align="right" src= "https://media.tenor.com/q6qW9VNFvVUAAAAi/retro-sonic-knuckles.gif" width = "120"/>
+        
 
   </head>
 
@@ -51,11 +51,13 @@ I am a second-year student of Computer Systems Engineering 💻 at Cenyca Univer
 
 <hr>
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <i>To fail is not to fall, but to refuse to get up.</i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/daniel-roble-serv/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:danielabisa14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.youtube.com/@dars3d"><img alt="Static Badge" src="https://img.shields.io/badge/Youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
 <br>
 </p>
