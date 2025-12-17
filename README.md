@@ -1,24 +1,19 @@
 <head>
-    <table align ="center">
-      <td>
-         <h1> 🦔 ¡Hey! Soy Daniel Robledo ⚡</h1>
-         <h3> 💻 Proximo Ingeniero en Sistemas Computacionales </h3>
-      </td>
-      <td>
-        <img src= "https://media.tenor.com/q6qW9VNFvVUAAAAi/retro-sonic-knuckles.gif" width = "120"/>
-      </td>
-    </table>
+         <h1> ⚡ Hey! I'm Daniel Robledo 🔥</h1>
+         <h3> 💻 Future Computer Systems Engineer </h3>
+        <img align="right" src= "https://media.tenor.com/q6qW9VNFvVUAAAAi/retro-sonic-knuckles.gif" width = "120"/>
+
   </head>
 
+  
+I am a second-year student of Computer Systems Engineering 💻 at Cenyca University. 
 
-Soy estudiante de segundo año de Ingenieria en Sistemas Computacionales 💻 en Cenyca Universidad. 
-
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently studying:
-	- Mobile Application Development 
-	- Web Application Development 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
+- 🪐 **Fun fact:** The Sega Saturn was the first video game console to connect to the internet.
+- 🔭 I’m currently learning:
+	- Databases 
+	- Video game development in Godot 
+- ☄️ My interests are: Programming, Design, Databases, Developing Video Games.
+- 💬 Talk me about Mathematics, Space, Technology, anything that interests you..
 
 ## Skills
 
