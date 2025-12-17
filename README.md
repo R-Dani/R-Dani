@@ -45,6 +45,8 @@ Soy estudiante de segundo año de Ingenieria en Sistemas Computacionales 💻 en
 <span>
   <img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Corel%20Draw-%23000000?style=for-the-badge&logo=coreldraw&logoColor=white">
+
 </span>
 
 
@@ -57,13 +59,10 @@ Soy estudiante de segundo año de Ingenieria en Sistemas Computacionales 💻 en
    <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/daniel-roble-serv/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:danielabisa14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
 <br>
 </p>
-------
-Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
 
-Last Edited on: 28/01/2023
+
