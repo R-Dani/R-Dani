@@ -1,11 +1,8 @@
 <head>
-         <h1> ⚡ Hey! I'm Daniel Robledo 🔥<img  src= "https://media.tenor.com/q6qW9VNFvVUAAAAi/retro-sonic-knuckles.gif" width = "50"/></h1>
-         <h3> 💻 Future Computer Systems Engineer </h3>
-        
-
+         <h1 align="center"> ☄️ Hey! I'm Daniel Robledo <img  src= "https://media.tenor.com/q6qW9VNFvVUAAAAi/retro-sonic-knuckles.gif" width = "50"/></h1>
+         <h3 align="center"> 💻 Future Computer Systems Engineer </h3>
   </head>
-
-  
+&nbsp;
 I am a second-year student of Computer Systems Engineering 💻 at Cenyca University. 
 
 - 🪐 **Fun fact:** The Sega Saturn was the first video game console to connect to the internet.
@@ -13,7 +10,7 @@ I am a second-year student of Computer Systems Engineering 💻 at Cenyca Univer
 	- Databases 
 	- Video game development in Godot 
 - ☄️ My interests are: Programming, Design, Databases, Developing Video Games.
-- 💬 Talk me about Mathematics, Space, Technology, anything that interests you..
+- 💬 Talk me about Mathematics, Space, Technology, anything that interests you.
 
 ## Skills
 
@@ -44,11 +41,6 @@ I am a second-year student of Computer Systems Engineering 💻 at Cenyca Univer
 
 </span>
 
-
-
-
-    
-
 <hr>
 <p align="center">
    <i>To fail is not to fall, but to refuse to get up.</i>
@@ -61,5 +53,3 @@ I am a second-year student of Computer Systems Engineering 💻 at Cenyca Univer
 
 <br>
 </p>
-
-
