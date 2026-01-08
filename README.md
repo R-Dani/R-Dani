@@ -1,6 +1,5 @@
-<img width="2044" height="300" alt="Space2" src="https://github.com/user-attachments/assets/8d953219-1f99-45d8-8d38-0fe61f15b45c" />
 <head>
-	 <h1 align="center"> ☄️ Hey! I'm Daniel Robledo </h1>
+	 <h1 align="center"> ☄️ Hey! I'm Daniel Robledo <img  src= "https://media.tenor.com/q6qW9VNFvVUAAAAi/retro-sonic-knuckles.gif" width = "40"/></h1>
 	 <h3 align="center"> 💻 Future Computer Systems Engineer </h3>
   </head>
 
@@ -44,7 +43,7 @@ I am a second-year student of Computer Systems Engineering 💻 at Cenyca Univer
 
 <hr>
 <p align="center">
-   <i>To fail is not to fall, but to refuse to get up.<img  src= "https://media.tenor.com/q6qW9VNFvVUAAAAi/retro-sonic-knuckles.gif" width = "30"/></i>
+   <i>To fail is not to fall, but to refuse to get up.</i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/daniel-roble-serv/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
