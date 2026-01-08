@@ -1,8 +1,8 @@
 
 <head>
-	<img width="2044" height="353" alt="Space2" src="https://github.com/user-attachments/assets/8d953219-1f99-45d8-8d38-0fe61f15b45c" />
 	 <h1 align="center"> ☄️ Hey! I'm Daniel Robledo <img  src= "https://media.tenor.com/q6qW9VNFvVUAAAAi/retro-sonic-knuckles.gif" width = "50"/></h1>
 	 <h3 align="center"> 💻 Future Computer Systems Engineer </h3>
+	<img width="2044" height="353" alt="Space2" src="https://github.com/user-attachments/assets/8d953219-1f99-45d8-8d38-0fe61f15b45c" />
   </head>
 &nbsp;
 I am a second-year student of Computer Systems Engineering 💻 at Cenyca University. 
