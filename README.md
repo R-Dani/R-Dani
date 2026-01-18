@@ -7,11 +7,8 @@
 &nbsp;
 
 - 🪐 **Fun fact:** The Sega Saturn was the first video game console to connect to the internet.
-- 🔭 I’m currently learning:
-	- Databases 
-	- Video game development in Godot 
-- ☄️ My interests are: Programming, Design, Databases, Developing Video Games.
-- 💬 Talk me about Mathematics, Space, Technology, anything that interests you.
+- 🔭 My current hobby is:
+	- Develop Video Games 🕹️
 
 ## Skills
 
@@ -31,6 +28,7 @@
 <h4> IDE </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual%20Studio%202022-8E68AD?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code%20-%20%23008FC7?style=for-the-badge&logoColor=white">
 
 
 
@@ -38,7 +36,6 @@
 <span>
   <img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
-	<img alt="Static Badge" src="https://img.shields.io/badge/Corel%20Draw-%23000000?style=for-the-badge&logo=coreldraw&logoColor=white">
 
 </span>
 
