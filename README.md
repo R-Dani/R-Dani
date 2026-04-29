@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-1AB5E8?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
-<h4> IDE </h4>
+<h4> IDES / Editores de texto </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual%20Studio%202022-8E68AD?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code%20-%20%23008FC7?style=for-the-badge&logoColor=white">
