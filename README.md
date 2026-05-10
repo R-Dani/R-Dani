@@ -10,7 +10,6 @@
 	- Desarrollar videojuegos 🕹️
     - Ciberseguridad 🛡️
     - Bases de datos 📊
-    - Desarrollo 💻
 
 ## Skills
 <h4> Lenguajes </h4>
