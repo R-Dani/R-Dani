@@ -30,7 +30,7 @@
 <h4> Otras herramientas y tecnologias </h4>
 <span>
   <img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
+  <!--<img alt="Static Badge" src="https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godotengine&logoColor=white">-->
 </span>
 <hr>
 <p align="center">
