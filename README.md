@@ -16,6 +16,10 @@
 <span> 
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%23-7E16B5?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+
+
+	
 </span>
 <h4> Bases de Datos </h4>
 <span>
@@ -29,7 +33,7 @@
 <h4> Otras herramientas y tecnologias </h4>
 <span>
   <img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=white">
-  <!--<img alt="Static Badge" src="https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godotengine&logoColor=white">-->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godotengine&logoColor=white"
 </span>
 <hr>
 <p align="center">
