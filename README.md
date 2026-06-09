@@ -37,7 +37,7 @@
 </span>
 <hr>
 <p align="center">
-   <i>No me preocupo por los fracasos.</i>
+   <i>"Inserte Frase Motivacional Generica".</i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/daniel-roble-serv/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
