@@ -14,7 +14,7 @@
 ## Skills
 <h4> Lenguajes </h4>
 <span> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+ <!-- <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/C%23-7E16B5?style=for-the-badge&logo=c&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 
