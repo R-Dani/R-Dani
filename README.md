@@ -5,11 +5,9 @@
 &nbsp;
 </div>
 
-<!-- - 🪐 **Fun fact:** La sega Saturn fue la primera consola con conexion a internet mediante NetLink.
-- 🔭 **Mis intereses:**
-	- Desarrollar videojuegos 🕹️
-    - Redes 🌐
-    - Bases de datos 📊 -->
+🪐 **Fun fact:** La sega Saturn fue la primera consola con conexion a internet mediante NetLink.
+- 🔭 **Hobbys:**
+	- Desarrollar y jugar videojuegos 🕹️
 
 ## Skills
 <h4> Lenguajes </h4>
